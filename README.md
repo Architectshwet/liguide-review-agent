@@ -7,6 +7,7 @@ A multi-turn conversational AI agent for app store review insights, built with L
 - **LangGraph + FastAPI Streaming**: Multi-turn conversations with real-time SSE token-by-token streaming.
 - **Session-based Memory**: Persistent conversation history via PostgreSQL checkpointer.
 - **Embedding-based RAG**: Semantic search over app store reviews with Qdrant + OpenAI embeddings.
+- **Metadata-Filtered Retrieval**: Embedding search supports filters like device/platform, rating, country, version, and time windows (last quarter, last month etc)
 - **Single Agent Architecture**: `LiquideAgent` with a specialized review RAG tool; the tool is invoked only when relevant.
 - **Review Ingestion**: Sample dataset or live fetch from Google Play and App Store; vector store is cleared on each ingest.
 - **Background Live Ingest Jobs**: Large live ingests can run asynchronously with `job_id` tracking and status polling.
