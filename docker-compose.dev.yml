@@ -1,0 +1,54 @@
+services:
+  liquide-agent-app:
+    build: .
+    container_name: liquide-agent-app-dev
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    depends_on:
+      postgres-db:
+        condition: service_healthy
+    restart: unless-stopped
+    command: ["uv", "run", "uvicorn", "liquide.server:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+    volumes:
+      - ./liquide:/app/liquide
+      - ./qdrant_vectordb:/app/qdrant_vectordb
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 60s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - liquide-agent-network
+
+  postgres-db:
+    image: postgres:15-alpine
+    container_name: postgres-liquide-db-dev
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-liquide_db}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./volumes/postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-liquide_db}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+    networks:
+      - liquide-agent-network
+
+networks:
+  liquide-agent-network:
+    driver: bridge
+    name: liquide-agent-dev-network
+
+volumes:
+  postgres_data:

@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "liquide-agent": "./liquide/liquide_agent.py:create_liquide_agent_dev"
+  }
+}

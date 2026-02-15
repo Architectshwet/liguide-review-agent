@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "rev-0001",
+    "title": "User 1",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, payout to bank is delayed again; not acceptable for a paid product using UPI/bank transfer.",
+    "date": "2026-02-14",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0002",
+    "title": "User 2",
+    "rating": 1,
+    "snippet": "Using the Android app, withdrawal timeline is unclear and support is slow; I am close to cancelling my plan.",
+    "date": "2026-02-13",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0003",
+    "title": "User 3",
+    "rating": 1,
+    "snippet": "On my Samsung device, signup flow keeps failing at PAN step; this is affecting real trades now.",
+    "date": "2026-02-12",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0004",
+    "title": "User 4",
+    "rating": 1,
+    "snippet": "In the Play Store app build, account sync is inconsistent and delayed; I expected a much smoother experience.",
+    "date": "2026-02-11",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0005",
+    "title": "User 5",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, chat support keeps asking for the same details; please fix this quickly.",
+    "date": "2026-02-10",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0006",
+    "title": "User 6",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; not acceptable for a paid product.",
+    "date": "2026-02-09",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0007",
+    "title": "User 7",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, the app crashes after sign in; I am close to cancelling my plan.",
+    "date": "2026-02-08",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0008",
+    "title": "User 8",
+    "rating": 2,
+    "snippet": "In the Play Store app build, payout failed once and I had to raise a ticket; this is affecting real trades now.",
+    "date": "2026-02-07",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0009",
+    "title": "User 9",
+    "rating": 1,
+    "snippet": "On my Samsung device, payout to bank is delayed again; I am close to cancelling my plan.",
+    "date": "2026-02-06",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0010",
+    "title": "User 10",
+    "rating": 2,
+    "snippet": "Using the Android app, positions appear late after refresh; this needs urgent attention from the team.",
+    "date": "2026-02-05",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0011",
+    "title": "User 11",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, portfolio sync breaks almost every day; I expected a much smoother experience.",
+    "date": "2026-02-04",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0012",
+    "title": "User 12",
+    "rating": 2,
+    "snippet": "In the Play Store app build, new user registration is confusing and buggy; please fix this quickly.",
+    "date": "2026-02-03",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0013",
+    "title": "User 13",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, ticket resolution takes too long; this has been frustrating for weeks.",
+    "date": "2026-02-02",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0014",
+    "title": "User 14",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; I am close to cancelling my plan.",
+    "date": "2026-02-01",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0015",
+    "title": "User 15",
+    "rating": 2,
+    "snippet": "On my Samsung device, withdraw request shows processing for too long; this is affecting real trades now.",
+    "date": "2026-01-31",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0016",
+    "title": "User 16",
+    "rating": 1,
+    "snippet": "In the Play Store app build, withdrawal timeline is unclear and support is slow; I am close to cancelling my plan.",
+    "date": "2026-01-30",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0017",
+    "title": "User 17",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, holdings are not updating after market close; this needs urgent attention from the team.",
+    "date": "2026-01-29",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0018",
+    "title": "User 18",
+    "rating": 1,
+    "snippet": "Using the Android app, account sync is inconsistent and delayed; I expected a much smoother experience.",
+    "date": "2026-01-28",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0019",
+    "title": "User 19",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, chat support keeps asking for the same details; please fix this quickly.",
+    "date": "2026-01-27",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0020",
+    "title": "User 20",
+    "rating": 1,
+    "snippet": "In the Play Store app build, customer support turnaround is poor; this has been frustrating for weeks.",
+    "date": "2026-01-26",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0021",
+    "title": "User 21",
+    "rating": 2,
+    "snippet": "On my Samsung device, the app crashes after sign in; I am close to cancelling my plan.",
+    "date": "2026-01-25",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0022",
+    "title": "User 22",
+    "rating": 2,
+    "snippet": "Using the Android app, payout failed once and I had to raise a ticket; this is affecting real trades now.",
+    "date": "2026-01-24",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0023",
+    "title": "User 23",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, account setup takes too many retries; I expected a much smoother experience.",
+    "date": "2026-01-23",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0024",
+    "title": "User 24",
+    "rating": 1,
+    "snippet": "In the Play Store app build, KYC upload fails even with clear documents; this is affecting real trades now.",
+    "date": "2026-01-22",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0025",
+    "title": "User 25",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, alerts miss key price moves during market hours; this has been frustrating for weeks.",
+    "date": "2026-01-21",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0026",
+    "title": "User 26",
+    "rating": 1,
+    "snippet": "Using the Android app, important alerts are delayed, promotional alerts are instant; this needs urgent attention from the team.",
+    "date": "2026-01-20",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0027",
+    "title": "User 27",
+    "rating": 1,
+    "snippet": "On my Samsung device, ticket resolution takes too long; this has been frustrating for weeks.",
+    "date": "2026-01-19",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0028",
+    "title": "User 28",
+    "rating": 2,
+    "snippet": "In the Play Store app build, the app hangs on the loading screen after sign in; I am close to cancelling my plan.",
+    "date": "2026-01-18",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0029",
+    "title": "User 29",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, withdraw request shows processing for too long; this is affecting real trades now.",
+    "date": "2026-01-17",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0030",
+    "title": "User 30",
+    "rating": 2,
+    "snippet": "Using the Android app, new user registration is confusing and buggy; I expected a much smoother experience.",
+    "date": "2026-01-16",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0031",
+    "title": "User 31",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; this needs urgent attention from the team.",
+    "date": "2026-01-15",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0032",
+    "title": "User 32",
+    "rating": 2,
+    "snippet": "In the Play Store app build, alert settings do not stick after update; this has been frustrating for weeks.",
+    "date": "2026-01-14",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0033",
+    "title": "User 33",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; please fix this quickly.",
+    "date": "2026-01-13",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0034",
+    "title": "User 34",
+    "rating": 1,
+    "snippet": "Using the Android app, KYC upload fails even with clear documents; this has been frustrating for weeks.",
+    "date": "2026-01-12",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0035",
+    "title": "User 35",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, the app crashes after sign in; I am close to cancelling my plan.",
+    "date": "2026-01-11",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0036",
+    "title": "User 36",
+    "rating": 2,
+    "snippet": "In the Play Store app build, payout failed once and I had to raise a ticket; this is affecting real trades now Team should look into this.",
+    "date": "2026-01-10",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0037",
+    "title": "User 37",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, account setup takes too many retries; I expected a much smoother experience.",
+    "date": "2026-01-09",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0038",
+    "title": "User 38",
+    "rating": 1,
+    "snippet": "Using the Android app, KYC upload fails even with clear documents; this is affecting real trades now.",
+    "date": "2026-01-08",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0039",
+    "title": "User 39",
+    "rating": 2,
+    "snippet": "On my Samsung device, alerts miss key price moves during market hours; this has been frustrating for weeks.",
+    "date": "2026-01-07",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0040",
+    "title": "User 40",
+    "rating": 2,
+    "snippet": "In the Play Store app build, support closed my ticket without resolving the bug; please fix this quickly.",
+    "date": "2026-01-06",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0041",
+    "title": "User 41",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, the app crashes after sign in; not acceptable for a paid product.",
+    "date": "2026-01-05",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0042",
+    "title": "User 42",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; I am close to cancelling my plan Kindly prioritize this issue.",
+    "date": "2026-01-04",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0043",
+    "title": "User 43",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, withdraw request shows processing for too long; this is affecting real trades now.",
+    "date": "2026-01-03",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0044",
+    "title": "User 44",
+    "rating": 1,
+    "snippet": "In the Play Store app build, withdrawal timeline is unclear and support is slow; I am close to cancelling my plan Team should look into this.",
+    "date": "2026-01-02",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0045",
+    "title": "User 45",
+    "rating": 1,
+    "snippet": "On my Samsung device, signup flow keeps failing at PAN step; this is affecting real trades now Please review this soon.",
+    "date": "2026-01-01",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0046",
+    "title": "User 46",
+    "rating": 1,
+    "snippet": "Using the Android app, account sync is inconsistent and delayed; I expected a much smoother experience Kindly prioritize this issue.",
+    "date": "2025-12-31",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0047",
+    "title": "User 47",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, notifications are too spammy and not actionable; this needs urgent attention from the team.",
+    "date": "2025-12-30",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0048",
+    "title": "User 48",
+    "rating": 1,
+    "snippet": "In the Play Store app build, customer support turnaround is poor; this has been frustrating for weeks Team should look into this.",
+    "date": "2025-12-29",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0049",
+    "title": "User 49",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, login OTP arrives late and session times out; please fix this quickly.",
+    "date": "2025-12-28",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0050",
+    "title": "User 50",
+    "rating": 2,
+    "snippet": "Using the Android app, payout failed once and I had to raise a ticket; this is affecting real trades now Kindly prioritize this issue.",
+    "date": "2025-12-27",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0051",
+    "title": "User 51",
+    "rating": 2,
+    "snippet": "On my Samsung device, account setup takes too many retries; I expected a much smoother experience.",
+    "date": "2025-12-26",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0052",
+    "title": "User 52",
+    "rating": 1,
+    "snippet": "In the Play Store app build, KYC upload fails even with clear documents; this is affecting real trades now Team should look into this.",
+    "date": "2025-12-25",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0053",
+    "title": "User 53",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, alerts miss key price moves during market hours; this has been frustrating for weeks.",
+    "date": "2025-12-24",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0054",
+    "title": "User 54",
+    "rating": 3,
+    "snippet": "Using the Android app, alerts are helpful when they work, but broker sync reliability is not great.",
+    "date": "2025-12-23",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0055",
+    "title": "User 55",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, ticket resolution takes too long; this has been frustrating for weeks Hoping for a quick fix.",
+    "date": "2025-12-22",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0056",
+    "title": "User 56",
+    "rating": 1,
+    "snippet": "In the Play Store app build, KYC upload fails even with clear documents; please fix this quickly.",
+    "date": "2025-12-21",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0057",
+    "title": "User 57",
+    "rating": 2,
+    "snippet": "On my Samsung device, withdraw request shows processing for too long; this is affecting real trades now Please review this soon.",
+    "date": "2025-12-20",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0058",
+    "title": "User 58",
+    "rating": 2,
+    "snippet": "Using the Android app, new user registration is confusing and buggy; I expected a much smoother experience Kindly prioritize this issue.",
+    "date": "2025-12-19",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0059",
+    "title": "User 59",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, holdings are not updating after market close; this needs urgent attention from the team Hoping for a quick fix.",
+    "date": "2025-12-18",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0060",
+    "title": "User 60",
+    "rating": 2,
+    "snippet": "In the Play Store app build, alert settings do not stick after update; this has been frustrating for weeks Team should look into this.",
+    "date": "2025-12-17",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0061",
+    "title": "User 61",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, chat support keeps asking for the same details; please fix this quickly Please review this soon.",
+    "date": "2025-12-16",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0062",
+    "title": "User 62",
+    "rating": 3,
+    "snippet": "Using the Android app, watchlists are handy, but payout tracking is inconsistent.",
+    "date": "2025-12-15",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0063",
+    "title": "User 63",
+    "rating": 1,
+    "snippet": "On my Samsung device, login OTP arrives late and session times out; please fix this quickly.",
+    "date": "2025-12-14",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0064",
+    "title": "User 64",
+    "rating": 1,
+    "snippet": "In the Play Store app build, withdrawal timeline is unclear and support is slow; not acceptable for a paid product.",
+    "date": "2025-12-13",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0065",
+    "title": "User 65",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, payout to bank is delayed again; I am close to cancelling my plan.",
+    "date": "2025-12-12",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0066",
+    "title": "User 66",
+    "rating": 2,
+    "snippet": "Using the Android app, positions appear late after refresh; this needs urgent attention from the team Kindly prioritize this issue.",
+    "date": "2025-12-11",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0067",
+    "title": "User 67",
+    "rating": 3,
+    "snippet": "On my Android phone, the ideas are useful, but login stability still needs work.",
+    "date": "2025-12-10",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0068",
+    "title": "User 68",
+    "rating": 3,
+    "snippet": "In the Play Store app build, watchlists are handy, but payout tracking is inconsistent.",
+    "date": "2025-12-09",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0069",
+    "title": "User 69",
+    "rating": 3,
+    "snippet": "On Android, the interface looks clean, but broker sync reliability is not great.",
+    "date": "2025-12-08",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0070",
+    "title": "User 70",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; I am close to cancelling my plan Kindly prioritize this issue.",
+    "date": "2025-12-07",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0071",
+    "title": "User 71",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, payout to bank is delayed again; not acceptable for a paid product.",
+    "date": "2025-12-06",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0072",
+    "title": "User 72",
+    "rating": 2,
+    "snippet": "In the Play Store app build, new user registration is confusing and buggy; I expected a much smoother experience.",
+    "date": "2025-12-05",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0073",
+    "title": "User 73",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; this needs urgent attention from the team Please review this soon.",
+    "date": "2025-12-04",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0074",
+    "title": "User 74",
+    "rating": 3,
+    "snippet": "Using the Android app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-12-03",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0075",
+    "title": "User 75",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; please fix this quickly Hoping for a quick fix.",
+    "date": "2025-12-02",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0076",
+    "title": "User 76",
+    "rating": 2,
+    "snippet": "In the Play Store app build, the app hangs on the loading screen after sign in; not acceptable for a paid product.",
+    "date": "2025-12-01",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0077",
+    "title": "User 77",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, login OTP arrives late and session times out; please fix this quickly.",
+    "date": "2025-11-30",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0078",
+    "title": "User 78",
+    "rating": 1,
+    "snippet": "Using the Android app, withdrawal timeline is unclear and support is slow; not acceptable for a paid product.",
+    "date": "2025-11-29",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0079",
+    "title": "User 79",
+    "rating": 3,
+    "snippet": "On my Android phone, the ideas are useful, but login stability still needs work Hoping for a quick fix.",
+    "date": "2025-11-28",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0080",
+    "title": "User 80",
+    "rating": 1,
+    "snippet": "In the Play Store app build, KYC upload fails even with clear documents; this is affecting real trades now Team should look into this.",
+    "date": "2025-11-27",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0081",
+    "title": "User 81",
+    "rating": 2,
+    "snippet": "On my Samsung device, alerts miss key price moves during market hours; this has been frustrating for weeks Please review this soon.",
+    "date": "2025-11-26",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0082",
+    "title": "User 82",
+    "rating": 1,
+    "snippet": "Using the Android app, important alerts are delayed, promotional alerts are instant; this needs urgent attention from the team Kindly prioritize this issue.",
+    "date": "2025-11-25",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0083",
+    "title": "User 83",
+    "rating": 3,
+    "snippet": "On my Android phone, portfolio summary is easy to read, but payout tracking is inconsistent.",
+    "date": "2025-11-24",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0084",
+    "title": "User 84",
+    "rating": 2,
+    "snippet": "In the Play Store app build, the app hangs on the loading screen after sign in; I am close to cancelling my plan Team should look into this.",
+    "date": "2025-11-23",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0085",
+    "title": "User 85",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, payout to bank is delayed again; not acceptable for a paid product.",
+    "date": "2025-11-22",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0086",
+    "title": "User 86",
+    "rating": 2,
+    "snippet": "Using the Android app, new user registration is confusing and buggy; I expected a much smoother experience Kindly prioritize this issue.",
+    "date": "2025-11-21",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0087",
+    "title": "User 87",
+    "rating": 2,
+    "snippet": "On my Samsung device, holdings are not updating after market close; this needs urgent attention from the team.",
+    "date": "2025-11-20",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0088",
+    "title": "User 88",
+    "rating": 2,
+    "snippet": "In the Play Store app build, alert settings do not stick after update; this has been frustrating for weeks Team should look into this.",
+    "date": "2025-11-19",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0089",
+    "title": "User 89",
+    "rating": 3,
+    "snippet": "On Android, portfolio summary is easy to read, but payout tracking is inconsistent.",
+    "date": "2025-11-18",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0090",
+    "title": "User 90",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; not acceptable for a paid product Kindly prioritize this issue.",
+    "date": "2025-11-17",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0091",
+    "title": "User 91",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, the app crashes after sign in; I am close to cancelling my plan Hoping for a quick fix.",
+    "date": "2025-11-16",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0092",
+    "title": "User 92",
+    "rating": 1,
+    "snippet": "In the Play Store app build, withdrawal timeline is unclear and support is slow; not acceptable for a paid product Team should look into this.",
+    "date": "2025-11-15",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0093",
+    "title": "User 93",
+    "rating": 1,
+    "snippet": "On my Samsung device, payout to bank is delayed again; I am close to cancelling my plan Please review this soon.",
+    "date": "2025-11-14",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0094",
+    "title": "User 94",
+    "rating": 2,
+    "snippet": "Using the Android app, positions appear late after refresh; this needs urgent attention from the team Kindly prioritize this issue.",
+    "date": "2025-11-13",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0095",
+    "title": "User 95",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, alerts miss key price moves during market hours; this has been frustrating for weeks Hoping for a quick fix.",
+    "date": "2025-11-12",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0096",
+    "title": "User 96",
+    "rating": 1,
+    "snippet": "In the Play Store app build, important alerts are delayed, promotional alerts are instant; this needs urgent attention from the team.",
+    "date": "2025-11-11",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0097",
+    "title": "User 97",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, the app crashes after sign in; not acceptable for a paid product.",
+    "date": "2025-11-10",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0098",
+    "title": "User 98",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; I am close to cancelling my plan Kindly prioritize this issue.",
+    "date": "2025-11-09",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0099",
+    "title": "User 99",
+    "rating": 2,
+    "snippet": "On my Samsung device, withdraw request shows processing for too long; this is affecting real trades now Hoping for a quick fix.",
+    "date": "2025-11-08",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0100",
+    "title": "User 100",
+    "rating": 2,
+    "snippet": "In the Play Store app build, new user registration is confusing and buggy; I expected a much smoother experience Team should look into this.",
+    "date": "2025-11-07",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0101",
+    "title": "User 101",
+    "rating": 5,
+    "snippet": "On Android, FnO breakdowns are clear even for active days; dashboard readability is strong and clean.",
+    "date": "2025-11-06",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0102",
+    "title": "User 102",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO entries and exits are explained in a simple way; market updates are relevant and concise.",
+    "date": "2025-11-05",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0103",
+    "title": "User 103",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort.",
+    "date": "2025-11-04",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0104",
+    "title": "User 104",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO ideas are timely and well structured; dashboard readability is strong and clean.",
+    "date": "2025-11-03",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0105",
+    "title": "User 105",
+    "rating": 5,
+    "snippet": "On iPhone, FnO alerts have improved my decision speed; market updates are relevant and concise.",
+    "date": "2025-11-02",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0106",
+    "title": "User 106",
+    "rating": 5,
+    "snippet": "Using the iOS app, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort.",
+    "date": "2025-11-01",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0107",
+    "title": "User 107",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean.",
+    "date": "2025-10-31",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0108",
+    "title": "User 108",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO entries and exits are explained in a simple way; market updates are relevant and concise.",
+    "date": "2025-10-30",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0109",
+    "title": "User 109",
+    "rating": 5,
+    "snippet": "On iPhone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort.",
+    "date": "2025-10-29",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0110",
+    "title": "User 110",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO ideas are timely and well structured; dashboard readability is strong and clean.",
+    "date": "2025-10-28",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0111",
+    "title": "User 111",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO alerts have improved my decision speed; market updates are relevant and concise.",
+    "date": "2025-10-27",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0112",
+    "title": "User 112",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort.",
+    "date": "2025-10-26",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0113",
+    "title": "User 113",
+    "rating": 5,
+    "snippet": "On iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean.",
+    "date": "2025-10-25",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0114",
+    "title": "User 114",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO entries and exits are explained in a simple way; market updates are relevant and concise Kindly prioritize this issue.",
+    "date": "2025-10-24",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0115",
+    "title": "User 115",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Hoping for a quick fix.",
+    "date": "2025-10-23",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0116",
+    "title": "User 116",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO ideas are timely and well structured; dashboard readability is strong and clean Team should look into this.",
+    "date": "2025-10-22",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0117",
+    "title": "User 117",
+    "rating": 5,
+    "snippet": "On iPhone, FnO alerts have improved my decision speed; market updates are relevant and concise Please review this soon.",
+    "date": "2025-10-21",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0118",
+    "title": "User 118",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort.",
+    "date": "2025-10-20",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0119",
+    "title": "User 119",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Hoping for a quick fix.",
+    "date": "2025-10-19",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0120",
+    "title": "User 120",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO entries and exits are explained in a simple way; market updates are relevant and concise.",
+    "date": "2025-10-18",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0121",
+    "title": "User 121",
+    "rating": 5,
+    "snippet": "On Android, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort.",
+    "date": "2025-10-17",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0122",
+    "title": "User 122",
+    "rating": 5,
+    "snippet": "Using the iOS app, FnO ideas are timely and well structured; dashboard readability is strong and clean.",
+    "date": "2025-10-16",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0123",
+    "title": "User 123",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO alerts have improved my decision speed; market updates are relevant and concise Hoping for a quick fix.",
+    "date": "2025-10-15",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0124",
+    "title": "User 124",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Team should look into this.",
+    "date": "2025-10-14",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0125",
+    "title": "User 125",
+    "rating": 5,
+    "snippet": "On iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Please review this soon.",
+    "date": "2025-10-13",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0126",
+    "title": "User 126",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO entries and exits are explained in a simple way; market updates are relevant and concise Kindly prioritize this issue.",
+    "date": "2025-10-12",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0127",
+    "title": "User 127",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort.",
+    "date": "2025-10-11",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0128",
+    "title": "User 128",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO ideas are timely and well structured; dashboard readability is strong and clean Team should look into this.",
+    "date": "2025-10-10",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0129",
+    "title": "User 129",
+    "rating": 5,
+    "snippet": "On Android, FnO alerts have improved my decision speed; market updates are relevant and concise.",
+    "date": "2025-10-09",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0130",
+    "title": "User 130",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Kindly prioritize this issue.",
+    "date": "2025-10-08",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0131",
+    "title": "User 131",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean.",
+    "date": "2025-10-07",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0132",
+    "title": "User 132",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO entries and exits are explained in a simple way; market updates are relevant and concise Team should look into this.",
+    "date": "2025-10-06",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0133",
+    "title": "User 133",
+    "rating": 5,
+    "snippet": "On iPhone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Please review this soon.",
+    "date": "2025-10-05",
+    "version": "v3",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0134",
+    "title": "User 134",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO ideas are timely and well structured; dashboard readability is strong and clean Kindly prioritize this issue.",
+    "date": "2025-10-04",
+    "version": "v3",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0135",
+    "title": "User 135",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO alerts have improved my decision speed; market updates are relevant and concise Hoping for a quick fix.",
+    "date": "2025-10-03",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0136",
+    "title": "User 136",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort.",
+    "date": "2025-10-02",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0137",
+    "title": "User 137",
+    "rating": 5,
+    "snippet": "On Android, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Please review this soon.",
+    "date": "2025-10-01",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0138",
+    "title": "User 138",
+    "rating": 5,
+    "snippet": "Using the iOS app, FnO entries and exits are explained in a simple way; market updates are relevant and concise.",
+    "date": "2025-09-30",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0139",
+    "title": "User 139",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Hoping for a quick fix.",
+    "date": "2025-09-29",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0140",
+    "title": "User 140",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO ideas are timely and well structured; dashboard readability is strong and clean.",
+    "date": "2025-09-28",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0141",
+    "title": "User 141",
+    "rating": 5,
+    "snippet": "On Android, FnO alerts have improved my decision speed; market updates are relevant and concise Please review this soon.",
+    "date": "2025-09-27",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0142",
+    "title": "User 142",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Kindly prioritize this issue.",
+    "date": "2025-09-26",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0143",
+    "title": "User 143",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Hoping for a quick fix.",
+    "date": "2025-09-25",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0144",
+    "title": "User 144",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO entries and exits are explained in a simple way; market updates are relevant and concise Team should look into this.",
+    "date": "2025-09-24",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0145",
+    "title": "User 145",
+    "rating": 5,
+    "snippet": "On Android, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Please review this soon.",
+    "date": "2025-09-23",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0146",
+    "title": "User 146",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO ideas are timely and well structured; dashboard readability is strong and clean Kindly prioritize this issue.",
+    "date": "2025-09-22",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0147",
+    "title": "User 147",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO alerts have improved my decision speed; market updates are relevant and concise Hoping for a quick fix.",
+    "date": "2025-09-21",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0148",
+    "title": "User 148",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Team should look into this.",
+    "date": "2025-09-20",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0149",
+    "title": "User 149",
+    "rating": 5,
+    "snippet": "On iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Please review this soon.",
+    "date": "2025-09-19",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0150",
+    "title": "User 150",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO entries and exits are explained in a simple way; market updates are relevant and concise Kindly prioritize this issue.",
+    "date": "2025-09-18",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0151",
+    "title": "User 151",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, holdings are not updating after market close; this has been frustrating for weeks.",
+    "date": "2025-09-17",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0152",
+    "title": "User 152",
+    "rating": 2,
+    "snippet": "From my iPhone app, alert settings do not stick after update; please fix this quickly.",
+    "date": "2025-09-16",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0153",
+    "title": "User 153",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; not acceptable for a paid product.",
+    "date": "2025-09-15",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0154",
+    "title": "User 154",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; I am close to cancelling my plan Kindly prioritize this issue.",
+    "date": "2025-09-14",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0155",
+    "title": "User 155",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, withdraw request shows processing for too long; this is affecting real trades now Hoping for a quick fix.",
+    "date": "2025-09-13",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0156",
+    "title": "User 156",
+    "rating": 3,
+    "snippet": "From my iPhone app, alerts are helpful when they work, but broker sync reliability is not great.",
+    "date": "2025-09-12",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0157",
+    "title": "User 157",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; this needs urgent attention from the team Please review this soon.",
+    "date": "2025-09-11",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0158",
+    "title": "User 158",
+    "rating": 2,
+    "snippet": "Using the Android app, alert settings do not stick after update; this has been frustrating for weeks.",
+    "date": "2025-09-10",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0159",
+    "title": "User 159",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; please fix this quickly Hoping for a quick fix.",
+    "date": "2025-09-09",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0160",
+    "title": "User 160",
+    "rating": 1,
+    "snippet": "In the Play Store app build, customer support turnaround is poor; this has been frustrating for weeks Team should look into this.",
+    "date": "2025-09-08",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0161",
+    "title": "User 161",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, login OTP arrives late and session times out; please fix this quickly Please review this soon.",
+    "date": "2025-09-07",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0162",
+    "title": "User 162",
+    "rating": 2,
+    "snippet": "Using the iOS app, payout failed once and I had to raise a ticket; this is affecting real trades now.",
+    "date": "2025-09-06",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0163",
+    "title": "User 163",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; I expected a much smoother experience.",
+    "date": "2025-09-05",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0164",
+    "title": "User 164",
+    "rating": 3,
+    "snippet": "In the Play Store app build, watchlists are handy, but payout tracking is inconsistent Team should look into this.",
+    "date": "2025-09-04",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0165",
+    "title": "User 165",
+    "rating": 3,
+    "snippet": "On iPhone, the interface looks clean, but broker sync reliability is not great.",
+    "date": "2025-09-03",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0166",
+    "title": "User 166",
+    "rating": 3,
+    "snippet": "Using the Android app, research cards are informative, but login stability still needs work.",
+    "date": "2025-09-02",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0167",
+    "title": "User 167",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, withdraw request shows processing for too long; not acceptable for a paid product.",
+    "date": "2025-09-01",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0168",
+    "title": "User 168",
+    "rating": 1,
+    "snippet": "From my iPhone app, withdrawal timeline is unclear and support is slow; please fix this quickly.",
+    "date": "2025-08-31",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0169",
+    "title": "User 169",
+    "rating": 2,
+    "snippet": "On iPhone, withdraw request shows processing for too long; this is affecting real trades now.",
+    "date": "2025-08-30",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0170",
+    "title": "User 170",
+    "rating": 1,
+    "snippet": "Using the iOS app, account sync is inconsistent and delayed; I am close to cancelling my plan.",
+    "date": "2025-08-29",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0171",
+    "title": "User 171",
+    "rating": 3,
+    "snippet": "On my Android phone, the interface looks clean, but broker sync reliability is not great.",
+    "date": "2025-08-28",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0172",
+    "title": "User 172",
+    "rating": 2,
+    "snippet": "In the Play Store app build, the app hangs on the loading screen after sign in; this has been frustrating for weeks.",
+    "date": "2025-08-27",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0173",
+    "title": "User 173",
+    "rating": 3,
+    "snippet": "On iPhone, portfolio summary is easy to read, but payout tracking is inconsistent.",
+    "date": "2025-08-26",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0174",
+    "title": "User 174",
+    "rating": 2,
+    "snippet": "Using the iOS app, new user registration is confusing and buggy; not acceptable for a paid product.",
+    "date": "2025-08-25",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0175",
+    "title": "User 175",
+    "rating": 3,
+    "snippet": "On App Store version for iPhone, the ideas are useful, but login stability still needs work.",
+    "date": "2025-08-24",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0176",
+    "title": "User 176",
+    "rating": 2,
+    "snippet": "In the Play Store app build, payout failed once and I had to raise a ticket; this is affecting real trades now Team should look into this.",
+    "date": "2025-08-23",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0177",
+    "title": "User 177",
+    "rating": 2,
+    "snippet": "On iPhone, account setup takes too many retries; I expected a much smoother experience.",
+    "date": "2025-08-22",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0178",
+    "title": "User 178",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; this needs urgent attention from the team.",
+    "date": "2025-08-21",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0179",
+    "title": "User 179",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, withdraw request shows processing for too long; this has been frustrating for weeks.",
+    "date": "2025-08-20",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0180",
+    "title": "User 180",
+    "rating": 2,
+    "snippet": "From my iPhone app, new user registration is confusing and buggy; please fix this quickly.",
+    "date": "2025-08-19",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0181",
+    "title": "User 181",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; not acceptable for a paid product.",
+    "date": "2025-08-18",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0182",
+    "title": "User 182",
+    "rating": 3,
+    "snippet": "Using the iOS app, watchlists are handy, but payout tracking is inconsistent.",
+    "date": "2025-08-17",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0183",
+    "title": "User 183",
+    "rating": 3,
+    "snippet": "On my Android phone, the interface looks clean, but broker sync reliability is not great Hoping for a quick fix.",
+    "date": "2025-08-16",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0184",
+    "title": "User 184",
+    "rating": 3,
+    "snippet": "In the Play Store app build, research cards are informative, but login stability still needs work.",
+    "date": "2025-08-15",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0185",
+    "title": "User 185",
+    "rating": 3,
+    "snippet": "On iPhone, portfolio summary is easy to read, but payout tracking is inconsistent Please review this soon.",
+    "date": "2025-08-14",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0186",
+    "title": "User 186",
+    "rating": 2,
+    "snippet": "Using the Android app, new user registration is confusing and buggy; this has been frustrating for weeks.",
+    "date": "2025-08-13",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0187",
+    "title": "User 187",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, holdings are not updating after market close; please fix this quickly.",
+    "date": "2025-08-12",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0188",
+    "title": "User 188",
+    "rating": 3,
+    "snippet": "In the Play Store app build, watchlists are handy, but payout tracking is inconsistent Team should look into this.",
+    "date": "2025-08-11",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0189",
+    "title": "User 189",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; I am close to cancelling my plan.",
+    "date": "2025-08-10",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0190",
+    "title": "User 190",
+    "rating": 2,
+    "snippet": "Using the iOS app, payout failed once and I had to raise a ticket; this is affecting real trades now Kindly prioritize this issue.",
+    "date": "2025-08-09",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0191",
+    "title": "User 191",
+    "rating": 1,
+    "snippet": "On App Store version for iPhone, login OTP arrives late and session times out; I am close to cancelling my plan.",
+    "date": "2025-08-08",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0192",
+    "title": "User 192",
+    "rating": 1,
+    "snippet": "From my iPhone app, withdrawal timeline is unclear and support is slow; this is affecting real trades now.",
+    "date": "2025-08-07",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0193",
+    "title": "User 193",
+    "rating": 3,
+    "snippet": "On iPhone, the ideas are useful, but login stability still needs work.",
+    "date": "2025-08-06",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0194",
+    "title": "User 194",
+    "rating": 3,
+    "snippet": "Using the Android app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-08-05",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0195",
+    "title": "User 195",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; not acceptable for a paid product Hoping for a quick fix.",
+    "date": "2025-08-04",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0196",
+    "title": "User 196",
+    "rating": 2,
+    "snippet": "In the Play Store app build, the app hangs on the loading screen after sign in; I am close to cancelling my plan Team should look into this.",
+    "date": "2025-08-03",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0197",
+    "title": "User 197",
+    "rating": 2,
+    "snippet": "On iPhone, withdraw request shows processing for too long; this is affecting real trades now Please review this soon.",
+    "date": "2025-08-02",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0198",
+    "title": "User 198",
+    "rating": 1,
+    "snippet": "Using the iOS app, withdrawal timeline is unclear and support is slow; I am close to cancelling my plan.",
+    "date": "2025-08-01",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0199",
+    "title": "User 199",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, account setup takes too many retries; this needs urgent attention from the team.",
+    "date": "2025-07-31",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0200",
+    "title": "User 200",
+    "rating": 1,
+    "snippet": "In the Play Store app build, account sync is inconsistent and delayed; I expected a much smoother experience Team should look into this.",
+    "date": "2025-07-30",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0201",
+    "title": "User 201",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; please fix this quickly Please review this soon.",
+    "date": "2025-07-29",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0202",
+    "title": "User 202",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; not acceptable for a paid product Kindly prioritize this issue.",
+    "date": "2025-07-28",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0203",
+    "title": "User 203",
+    "rating": 4,
+    "snippet": "On my Android phone, market updates are relevant and concise; onboarding tips for beginners can be better.",
+    "date": "2025-07-27",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0204",
+    "title": "User 204",
+    "rating": 4,
+    "snippet": "From my iPhone app, portfolio insights are genuinely helpful; would love a bit more customization in alerts.",
+    "date": "2025-07-26",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0205",
+    "title": "User 205",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; I expected a much smoother experience Please review this soon.",
+    "date": "2025-07-25",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0206",
+    "title": "User 206",
+    "rating": 3,
+    "snippet": "Using the Android app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-07-24",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0207",
+    "title": "User 207",
+    "rating": 3,
+    "snippet": "On App Store version for iPhone, the interface looks clean, but broker sync reliability is not great.",
+    "date": "2025-07-23",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0208",
+    "title": "User 208",
+    "rating": 2,
+    "snippet": "In the Play Store app build, the app hangs on the loading screen after sign in; please fix this quickly.",
+    "date": "2025-07-22",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0209",
+    "title": "User 209",
+    "rating": 1,
+    "snippet": "On iPhone, login OTP arrives late and session times out; this has been frustrating for weeks.",
+    "date": "2025-07-21",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0210",
+    "title": "User 210",
+    "rating": 1,
+    "snippet": "Using the iOS app, KYC upload fails even with clear documents; please fix this quickly.",
+    "date": "2025-07-20",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0211",
+    "title": "User 211",
+    "rating": 3,
+    "snippet": "On my Android phone, the ideas are useful, but login stability still needs work Hoping for a quick fix.",
+    "date": "2025-07-19",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0212",
+    "title": "User 212",
+    "rating": 1,
+    "snippet": "From my iPhone app, account sync is inconsistent and delayed; I am close to cancelling my plan.",
+    "date": "2025-07-18",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0213",
+    "title": "User 213",
+    "rating": 1,
+    "snippet": "On iPhone, notifications are too spammy and not actionable; this is affecting real trades now.",
+    "date": "2025-07-17",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0214",
+    "title": "User 214",
+    "rating": 4,
+    "snippet": "Using the Android app, watchlist management is straightforward; bank payout status page can be more detailed.",
+    "date": "2025-07-16",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0215",
+    "title": "User 215",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, withdraw request shows processing for too long; please fix this quickly.",
+    "date": "2025-07-15",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0216",
+    "title": "User 216",
+    "rating": 4,
+    "snippet": "From my iPhone app, portfolio insights are genuinely helpful; would love a bit more customization in alerts Team should look into this.",
+    "date": "2025-07-14",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0217",
+    "title": "User 217",
+    "rating": 3,
+    "snippet": "On Android, the ideas are useful, but login stability still needs work.",
+    "date": "2025-07-13",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0218",
+    "title": "User 218",
+    "rating": 3,
+    "snippet": "Using the iOS app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-07-12",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0219",
+    "title": "User 219",
+    "rating": 4,
+    "snippet": "On App Store version for iPhone, dashboard readability is strong and clean; a few notification settings could be clearer.",
+    "date": "2025-07-11",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0220",
+    "title": "User 220",
+    "rating": 1,
+    "snippet": "From my iPhone app, customer support turnaround is poor; this is affecting real trades now.",
+    "date": "2025-07-10",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0221",
+    "title": "User 221",
+    "rating": 2,
+    "snippet": "On iPhone, account setup takes too many retries; this has been frustrating for weeks.",
+    "date": "2025-07-09",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0222",
+    "title": "User 222",
+    "rating": 3,
+    "snippet": "Using the iOS app, alerts are helpful when they work, but broker sync reliability is not great.",
+    "date": "2025-07-08",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0223",
+    "title": "User 223",
+    "rating": 3,
+    "snippet": "On App Store version for iPhone, the ideas are useful, but login stability still needs work Hoping for a quick fix.",
+    "date": "2025-07-07",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0224",
+    "title": "User 224",
+    "rating": 2,
+    "snippet": "In the Play Store app build, alert settings do not stick after update; I am close to cancelling my plan.",
+    "date": "2025-07-06",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0225",
+    "title": "User 225",
+    "rating": 4,
+    "snippet": "On iPhone, dashboard readability is strong and clean; a few notification settings could be clearer.",
+    "date": "2025-07-05",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0226",
+    "title": "User 226",
+    "rating": 4,
+    "snippet": "Using the iOS app, watchlist management is straightforward; bank payout status page can be more detailed using UPI/bank transfer.",
+    "date": "2025-07-04",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0227",
+    "title": "User 227",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, login OTP arrives late and session times out; this is affecting real trades now.",
+    "date": "2025-07-03",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0228",
+    "title": "User 228",
+    "rating": 2,
+    "snippet": "From my iPhone app, new user registration is confusing and buggy; this has been frustrating for weeks.",
+    "date": "2025-07-02",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0229",
+    "title": "User 229",
+    "rating": 3,
+    "snippet": "On iPhone, the ideas are useful, but login stability still needs work Please review this soon.",
+    "date": "2025-07-01",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0230",
+    "title": "User 230",
+    "rating": 3,
+    "snippet": "Using the iOS app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-06-30",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0231",
+    "title": "User 231",
+    "rating": 3,
+    "snippet": "On App Store version for iPhone, the interface looks clean, but broker sync reliability is not great Hoping for a quick fix.",
+    "date": "2025-06-29",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0232",
+    "title": "User 232",
+    "rating": 3,
+    "snippet": "From my iPhone app, research cards are informative, but login stability still needs work.",
+    "date": "2025-06-28",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0233",
+    "title": "User 233",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, login OTP arrives late and session times out; I am close to cancelling my plan.",
+    "date": "2025-06-27",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0234",
+    "title": "User 234",
+    "rating": 1,
+    "snippet": "Using the Android app, withdrawal timeline is unclear and support is slow; this is affecting real trades now.",
+    "date": "2025-06-26",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0235",
+    "title": "User 235",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, holdings are not updating after market close; this has been frustrating for weeks Hoping for a quick fix.",
+    "date": "2025-06-25",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0236",
+    "title": "User 236",
+    "rating": 3,
+    "snippet": "In the Play Store app build, watchlists are handy, but payout tracking is inconsistent Team should look into this.",
+    "date": "2025-06-24",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0237",
+    "title": "User 237",
+    "rating": 3,
+    "snippet": "On Android, the interface looks clean, but broker sync reliability is not great Please review this soon.",
+    "date": "2025-06-23",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0238",
+    "title": "User 238",
+    "rating": 2,
+    "snippet": "Using the iOS app, the app hangs on the loading screen after sign in; I am close to cancelling my plan.",
+    "date": "2025-06-22",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0239",
+    "title": "User 239",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, withdraw request shows processing for too long; this is affecting real trades now.",
+    "date": "2025-06-21",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0240",
+    "title": "User 240",
+    "rating": 1,
+    "snippet": "From my iPhone app, withdrawal timeline is unclear and support is slow; I am close to cancelling my plan.",
+    "date": "2025-06-20",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0241",
+    "title": "User 241",
+    "rating": 4,
+    "snippet": "On Android, research notes save a lot of manual effort; I only want slightly faster refresh.",
+    "date": "2025-06-19",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0242",
+    "title": "User 242",
+    "rating": 3,
+    "snippet": "Using the iOS app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-06-18",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0243",
+    "title": "User 243",
+    "rating": 4,
+    "snippet": "On App Store version for iPhone, dashboard readability is strong and clean; a few notification settings could be clearer Hoping for a quick fix.",
+    "date": "2025-06-17",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0244",
+    "title": "User 244",
+    "rating": 1,
+    "snippet": "From my iPhone app, customer support turnaround is poor; this has been frustrating for weeks.",
+    "date": "2025-06-16",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0245",
+    "title": "User 245",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, login OTP arrives late and session times out; please fix this quickly Please review this soon.",
+    "date": "2025-06-15",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0246",
+    "title": "User 246",
+    "rating": 4,
+    "snippet": "Using the Android app, portfolio insights are genuinely helpful; would love a bit more customization in alerts.",
+    "date": "2025-06-14",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0247",
+    "title": "User 247",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; I expected a much smoother experience Hoping for a quick fix.",
+    "date": "2025-06-13",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0248",
+    "title": "User 248",
+    "rating": 1,
+    "snippet": "In the Play Store app build, account sync is inconsistent and delayed; this is affecting real trades now.",
+    "date": "2025-06-12",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0249",
+    "title": "User 249",
+    "rating": 4,
+    "snippet": "On Android, dashboard readability is strong and clean; a few notification settings could be clearer.",
+    "date": "2025-06-11",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0250",
+    "title": "User 250",
+    "rating": 4,
+    "snippet": "Using the iOS app, watchlist management is straightforward; bank payout status page can be more detailed.",
+    "date": "2025-06-10",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0251",
+    "title": "User 251",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Hoping for a quick fix.",
+    "date": "2025-06-09",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0252",
+    "title": "User 252",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO entries and exits are explained in a simple way; market updates are relevant and concise Team should look into this.",
+    "date": "2025-06-08",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0253",
+    "title": "User 253",
+    "rating": 1,
+    "snippet": "On iPhone, payout to bank is delayed again; not acceptable for a paid product using UPI/bank transfer.",
+    "date": "2025-06-07",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0254",
+    "title": "User 254",
+    "rating": 2,
+    "snippet": "Using the Android app, new user registration is confusing and buggy; I expected a much smoother experience Kindly prioritize this issue.",
+    "date": "2025-06-06",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0255",
+    "title": "User 255",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; this needs urgent attention from the team.",
+    "date": "2025-06-05",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0256",
+    "title": "User 256",
+    "rating": 1,
+    "snippet": "In the Play Store app build, customer support turnaround is poor; I expected a much smoother experience.",
+    "date": "2025-06-04",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0257",
+    "title": "User 257",
+    "rating": 4,
+    "snippet": "On iPhone, market updates are relevant and concise; onboarding tips for beginners can be better.",
+    "date": "2025-06-03",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0258",
+    "title": "User 258",
+    "rating": 3,
+    "snippet": "Using the Android app, alerts are helpful when they work, but broker sync reliability is not great Kindly prioritize this issue.",
+    "date": "2025-06-02",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0259",
+    "title": "User 259",
+    "rating": 3,
+    "snippet": "On App Store version for iPhone, the ideas are useful, but login stability still needs work Hoping for a quick fix.",
+    "date": "2025-06-01",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0260",
+    "title": "User 260",
+    "rating": 1,
+    "snippet": "From my iPhone app, withdrawal timeline is unclear and support is slow; not acceptable for a paid product.",
+    "date": "2025-05-31",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0261",
+    "title": "User 261",
+    "rating": 5,
+    "snippet": "On iPhone, FnO alerts have improved my decision speed; market updates are relevant and concise Please review this soon.",
+    "date": "2025-05-30",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0262",
+    "title": "User 262",
+    "rating": 4,
+    "snippet": "Using the Android app, watchlist management is straightforward; bank payout status page can be more detailed using UPI/bank transfer.",
+    "date": "2025-05-29",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0263",
+    "title": "User 263",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, withdraw request shows processing for too long; this has been frustrating for weeks.",
+    "date": "2025-05-28",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0264",
+    "title": "User 264",
+    "rating": 1,
+    "snippet": "In the Play Store app build, withdrawal timeline is unclear and support is slow; this needs urgent attention from the team.",
+    "date": "2025-05-27",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0265",
+    "title": "User 265",
+    "rating": 5,
+    "snippet": "On iPhone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Please review this soon.",
+    "date": "2025-05-26",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0266",
+    "title": "User 266",
+    "rating": 3,
+    "snippet": "Using the Android app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-05-25",
+    "version": "v2",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0267",
+    "title": "User 267",
+    "rating": 3,
+    "snippet": "On App Store version for iPhone, the interface looks clean, but broker sync reliability is not great Hoping for a quick fix.",
+    "date": "2025-05-24",
+    "version": "v2",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0268",
+    "title": "User 268",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Team should look into this.",
+    "date": "2025-05-23",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0269",
+    "title": "User 269",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, login OTP arrives late and session times out; this is affecting real trades now Please review this soon.",
+    "date": "2025-05-22",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0270",
+    "title": "User 270",
+    "rating": 3,
+    "snippet": "Using the Android app, alerts are helpful when they work, but broker sync reliability is not great Kindly prioritize this issue.",
+    "date": "2025-05-21",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0271",
+    "title": "User 271",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, signup flow keeps failing at PAN step; this needs urgent attention from the team.",
+    "date": "2025-05-20",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0272",
+    "title": "User 272",
+    "rating": 5,
+    "snippet": "From my iPhone app, FnO ideas are timely and well structured; dashboard readability is strong and clean Team should look into this.",
+    "date": "2025-05-19",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0273",
+    "title": "User 273",
+    "rating": 5,
+    "snippet": "On Android, FnO alerts have improved my decision speed; market updates are relevant and concise Please review this soon.",
+    "date": "2025-05-18",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0274",
+    "title": "User 274",
+    "rating": 4,
+    "snippet": "Using the Android app, overall experience is strong, but payout confirmation can be quicker after withdraw requests.",
+    "date": "2025-05-17",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0275",
+    "title": "User 275",
+    "rating": 3,
+    "snippet": "On my Android phone, portfolio summary is easy to read, but payout tracking is inconsistent Hoping for a quick fix.",
+    "date": "2025-05-16",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0276",
+    "title": "User 276",
+    "rating": 4,
+    "snippet": "In the Play Store app build, portfolio insights are genuinely helpful; would love a bit more customization in alerts.",
+    "date": "2025-05-15",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0277",
+    "title": "User 277",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, signup flow keeps failing at PAN step; I expected a much smoother experience.",
+    "date": "2025-05-14",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0278",
+    "title": "User 278",
+    "rating": 3,
+    "snippet": "Using the Android app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-05-13",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0279",
+    "title": "User 279",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; not acceptable for a paid product Hoping for a quick fix.",
+    "date": "2025-05-12",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0280",
+    "title": "User 280",
+    "rating": 3,
+    "snippet": "From my iPhone app, research cards are informative, but login stability still needs work Team should look into this.",
+    "date": "2025-05-11",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0281",
+    "title": "User 281",
+    "rating": 5,
+    "snippet": "On Android, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Please review this soon.",
+    "date": "2025-05-10",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0282",
+    "title": "User 282",
+    "rating": 3,
+    "snippet": "Using the Android app, alerts are helpful when they work, but broker sync reliability is not great Kindly prioritize this issue.",
+    "date": "2025-05-09",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0283",
+    "title": "User 283",
+    "rating": 4,
+    "snippet": "On App Store version for iPhone, research notes save a lot of manual effort; I only want slightly faster refresh.",
+    "date": "2025-05-08",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0284",
+    "title": "User 284",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO ideas are timely and well structured; dashboard readability is strong and clean Team should look into this.",
+    "date": "2025-05-07",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0285",
+    "title": "User 285",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; please fix this quickly Please review this soon.",
+    "date": "2025-05-06",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0286",
+    "title": "User 286",
+    "rating": 4,
+    "snippet": "Using the Android app, watchlist management is straightforward; bank payout status page can be more detailed Kindly prioritize this issue.",
+    "date": "2025-05-05",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0287",
+    "title": "User 287",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, account setup takes too many retries; I am close to cancelling my plan.",
+    "date": "2025-05-04",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0288",
+    "title": "User 288",
+    "rating": 3,
+    "snippet": "In the Play Store app build, alerts are helpful when they work, but broker sync reliability is not great.",
+    "date": "2025-05-03",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0289",
+    "title": "User 289",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, signup flow keeps failing at PAN step; I am close to cancelling my plan.",
+    "date": "2025-05-02",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0290",
+    "title": "User 290",
+    "rating": 2,
+    "snippet": "Using the iOS app, alert settings do not stick after update; this needs urgent attention from the team.",
+    "date": "2025-05-01",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0291",
+    "title": "User 291",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO alerts have improved my decision speed; market updates are relevant and concise Hoping for a quick fix.",
+    "date": "2025-04-30",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0292",
+    "title": "User 292",
+    "rating": 1,
+    "snippet": "In the Play Store app build, customer support turnaround is poor; this needs urgent attention from the team.",
+    "date": "2025-04-29",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0293",
+    "title": "User 293",
+    "rating": 4,
+    "snippet": "On iPhone, market updates are relevant and concise; onboarding tips for beginners can be better Please review this soon.",
+    "date": "2025-04-28",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0294",
+    "title": "User 294",
+    "rating": 4,
+    "snippet": "Using the iOS app, portfolio insights are genuinely helpful; would love a bit more customization in alerts.",
+    "date": "2025-04-27",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0295",
+    "title": "User 295",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Hoping for a quick fix.",
+    "date": "2025-04-26",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0296",
+    "title": "User 296",
+    "rating": 4,
+    "snippet": "From my iPhone app, execution flow is smooth on most days; support response can still improve a bit.",
+    "date": "2025-04-25",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0297",
+    "title": "User 297",
+    "rating": 4,
+    "snippet": "On Android, dashboard readability is strong and clean; a few notification settings could be clearer Please review this soon.",
+    "date": "2025-04-24",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0298",
+    "title": "User 298",
+    "rating": 2,
+    "snippet": "Using the iOS app, new user registration is confusing and buggy; this has been frustrating for weeks.",
+    "date": "2025-04-23",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0299",
+    "title": "User 299",
+    "rating": 2,
+    "snippet": "On App Store version for iPhone, withdraw request shows processing for too long; please fix this quickly Hoping for a quick fix.",
+    "date": "2025-04-22",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0300",
+    "title": "User 300",
+    "rating": 4,
+    "snippet": "In the Play Store app build, overall experience is strong, but payout confirmation can be quicker after withdraw requests.",
+    "date": "2025-04-21",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0301",
+    "title": "User 301",
+    "rating": 3,
+    "snippet": "On iPhone, the ideas are useful, but login stability still needs work Please review this soon.",
+    "date": "2025-04-20",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0302",
+    "title": "User 302",
+    "rating": 3,
+    "snippet": "Using the iOS app, watchlists are handy, but payout tracking is inconsistent Kindly prioritize this issue.",
+    "date": "2025-04-19",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0303",
+    "title": "User 303",
+    "rating": 4,
+    "snippet": "On App Store version for iPhone, dashboard readability is strong and clean; a few notification settings could be clearer Hoping for a quick fix.",
+    "date": "2025-04-18",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0304",
+    "title": "User 304",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Team should look into this.",
+    "date": "2025-04-17",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0305",
+    "title": "User 305",
+    "rating": 5,
+    "snippet": "On iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Please review this soon.",
+    "date": "2025-04-16",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0306",
+    "title": "User 306",
+    "rating": 4,
+    "snippet": "Using the iOS app, portfolio insights are genuinely helpful; would love a bit more customization in alerts Kindly prioritize this issue.",
+    "date": "2025-04-15",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0307",
+    "title": "User 307",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; not acceptable for a paid product Hoping for a quick fix.",
+    "date": "2025-04-14",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0308",
+    "title": "User 308",
+    "rating": 4,
+    "snippet": "In the Play Store app build, execution flow is smooth on most days; support response can still improve a bit.",
+    "date": "2025-04-13",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0309",
+    "title": "User 309",
+    "rating": 4,
+    "snippet": "On Android, dashboard readability is strong and clean; a few notification settings could be clearer Please review this soon.",
+    "date": "2025-04-12",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0310",
+    "title": "User 310",
+    "rating": 4,
+    "snippet": "Using the iOS app, watchlist management is straightforward; bank payout status page can be more detailed Kindly prioritize this issue.",
+    "date": "2025-04-11",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0311",
+    "title": "User 311",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Hoping for a quick fix.",
+    "date": "2025-04-10",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0312",
+    "title": "User 312",
+    "rating": 1,
+    "snippet": "From my iPhone app, withdrawal timeline is unclear and support is slow; I expected a much smoother experience.",
+    "date": "2025-04-09",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0313",
+    "title": "User 313",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, signup flow keeps failing at PAN step; this needs urgent attention from the team Please review this soon.",
+    "date": "2025-04-08",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0314",
+    "title": "User 314",
+    "rating": 1,
+    "snippet": "Using the iOS app, account sync is inconsistent and delayed; this has been frustrating for weeks.",
+    "date": "2025-04-07",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0315",
+    "title": "User 315",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; I am close to cancelling my plan Hoping for a quick fix.",
+    "date": "2025-04-06",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0316",
+    "title": "User 316",
+    "rating": 3,
+    "snippet": "In the Play Store app build, research cards are informative, but login stability still needs work Team should look into this.",
+    "date": "2025-04-05",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0317",
+    "title": "User 317",
+    "rating": 1,
+    "snippet": "On iPhone, login OTP arrives late and session times out; I am close to cancelling my plan.",
+    "date": "2025-04-04",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0318",
+    "title": "User 318",
+    "rating": 4,
+    "snippet": "Using the iOS app, portfolio insights are genuinely helpful; would love a bit more customization in alerts Kindly prioritize this issue.",
+    "date": "2025-04-03",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0319",
+    "title": "User 319",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Hoping for a quick fix.",
+    "date": "2025-04-02",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0320",
+    "title": "User 320",
+    "rating": 2,
+    "snippet": "In the Play Store app build, new user registration is confusing and buggy; please fix this quickly Team should look into this.",
+    "date": "2025-04-01",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0321",
+    "title": "User 321",
+    "rating": 2,
+    "snippet": "On iPhone, chat support keeps asking for the same details; not acceptable for a paid product.",
+    "date": "2025-03-31",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0322",
+    "title": "User 322",
+    "rating": 1,
+    "snippet": "Using the iOS app, customer support turnaround is poor; please fix this quickly.",
+    "date": "2025-03-30",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0323",
+    "title": "User 323",
+    "rating": 4,
+    "snippet": "On my Android phone, market updates are relevant and concise; onboarding tips for beginners can be better Hoping for a quick fix.",
+    "date": "2025-03-29",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0324",
+    "title": "User 324",
+    "rating": 1,
+    "snippet": "In the Play Store app build, withdrawal timeline is unclear and support is slow; I am close to cancelling my plan Team should look into this.",
+    "date": "2025-03-28",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0325",
+    "title": "User 325",
+    "rating": 3,
+    "snippet": "On Android, the ideas are useful, but login stability still needs work Please review this soon.",
+    "date": "2025-03-27",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0326",
+    "title": "User 326",
+    "rating": 2,
+    "snippet": "Using the Android app, alert settings do not stick after update; this has been frustrating for weeks Kindly prioritize this issue.",
+    "date": "2025-03-26",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0327",
+    "title": "User 327",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO alerts have improved my decision speed; market updates are relevant and concise.",
+    "date": "2025-03-25",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0328",
+    "title": "User 328",
+    "rating": 2,
+    "snippet": "In the Play Store app build, the app hangs on the loading screen after sign in; not acceptable for a paid product Team should look into this.",
+    "date": "2025-03-24",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0329",
+    "title": "User 329",
+    "rating": 4,
+    "snippet": "On Android, market updates are relevant and concise; onboarding tips for beginners can be better.",
+    "date": "2025-03-23",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0330",
+    "title": "User 330",
+    "rating": 4,
+    "snippet": "Using the iOS app, portfolio insights are genuinely helpful; would love a bit more customization in alerts Kindly prioritize this issue.",
+    "date": "2025-03-22",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0331",
+    "title": "User 331",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, account setup takes too many retries; I expected a much smoother experience Hoping for a quick fix.",
+    "date": "2025-03-21",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0332",
+    "title": "User 332",
+    "rating": 4,
+    "snippet": "In the Play Store app build, execution flow is smooth on most days; support response can still improve a bit Team should look into this.",
+    "date": "2025-03-20",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0333",
+    "title": "User 333",
+    "rating": 4,
+    "snippet": "On iPhone, dashboard readability is strong and clean; a few notification settings could be clearer Please review this soon.",
+    "date": "2025-03-19",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0334",
+    "title": "User 334",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; please fix this quickly.",
+    "date": "2025-03-18",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0335",
+    "title": "User 335",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Hoping for a quick fix.",
+    "date": "2025-03-17",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0336",
+    "title": "User 336",
+    "rating": 3,
+    "snippet": "In the Play Store app build, alerts are helpful when they work, but broker sync reliability is not great Team should look into this.",
+    "date": "2025-03-16",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0337",
+    "title": "User 337",
+    "rating": 2,
+    "snippet": "On iPhone, withdraw request shows processing for too long; this is affecting real trades now Please review this soon.",
+    "date": "2025-03-15",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0338",
+    "title": "User 338",
+    "rating": 1,
+    "snippet": "Using the Android app, account sync is inconsistent and delayed; I am close to cancelling my plan.",
+    "date": "2025-03-14",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0339",
+    "title": "User 339",
+    "rating": 3,
+    "snippet": "On my Android phone, the interface looks clean, but broker sync reliability is not great Hoping for a quick fix.",
+    "date": "2025-03-13",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0340",
+    "title": "User 340",
+    "rating": 1,
+    "snippet": "From my iPhone app, customer support turnaround is poor; I expected a much smoother experience.",
+    "date": "2025-03-12",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0341",
+    "title": "User 341",
+    "rating": 3,
+    "snippet": "On Android, portfolio summary is easy to read, but payout tracking is inconsistent Please review this soon.",
+    "date": "2025-03-11",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0342",
+    "title": "User 342",
+    "rating": 5,
+    "snippet": "Using the iOS app, FnO entries and exits are explained in a simple way; market updates are relevant and concise Kindly prioritize this issue.",
+    "date": "2025-03-10",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0343",
+    "title": "User 343",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; I am close to cancelling my plan.",
+    "date": "2025-03-09",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0344",
+    "title": "User 344",
+    "rating": 2,
+    "snippet": "In the Play Store app build, payout failed once and I had to raise a ticket; this is affecting real trades now Team should look into this.",
+    "date": "2025-03-08",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0345",
+    "title": "User 345",
+    "rating": 3,
+    "snippet": "On iPhone, the interface looks clean, but broker sync reliability is not great Please review this soon.",
+    "date": "2025-03-07",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0346",
+    "title": "User 346",
+    "rating": 1,
+    "snippet": "Using the iOS app, customer support turnaround is poor; this is affecting real trades now.",
+    "date": "2025-03-06",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0347",
+    "title": "User 347",
+    "rating": 3,
+    "snippet": "On App Store version for iPhone, portfolio summary is easy to read, but payout tracking is inconsistent.",
+    "date": "2025-03-05",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0348",
+    "title": "User 348",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO entries and exits are explained in a simple way; market updates are relevant and concise Team should look into this.",
+    "date": "2025-03-04",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0349",
+    "title": "User 349",
+    "rating": 1,
+    "snippet": "On iPhone, signup flow keeps failing at PAN step; this has been frustrating for weeks.",
+    "date": "2025-03-03",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0350",
+    "title": "User 350",
+    "rating": 4,
+    "snippet": "Using the Android app, execution flow is smooth on most days; support response can still improve a bit.",
+    "date": "2025-03-02",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0351",
+    "title": "User 351",
+    "rating": 5,
+    "snippet": "On App Store version for iPhone, FnO alerts have improved my decision speed; market updates are relevant and concise Hoping for a quick fix.",
+    "date": "2025-03-01",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0352",
+    "title": "User 352",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Team should look into this.",
+    "date": "2025-02-28",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0353",
+    "title": "User 353",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, account setup takes too many retries; this needs urgent attention from the team.",
+    "date": "2025-02-27",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0354",
+    "title": "User 354",
+    "rating": 3,
+    "snippet": "Using the iOS app, alerts are helpful when they work, but broker sync reliability is not great Kindly prioritize this issue.",
+    "date": "2025-02-26",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0355",
+    "title": "User 355",
+    "rating": 1,
+    "snippet": "Using a Samsung phone, signup flow keeps failing at PAN step; this needs urgent attention from the team Hoping for a quick fix.",
+    "date": "2025-02-25",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0356",
+    "title": "User 356",
+    "rating": 2,
+    "snippet": "From my iPhone app, alert settings do not stick after update; not acceptable for a paid product.",
+    "date": "2025-02-24",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0357",
+    "title": "User 357",
+    "rating": 4,
+    "snippet": "On iPhone, dashboard readability is strong and clean; a few notification settings could be clearer Please review this soon.",
+    "date": "2025-02-23",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0358",
+    "title": "User 358",
+    "rating": 3,
+    "snippet": "Using the Android app, research cards are informative, but login stability still needs work Kindly prioritize this issue.",
+    "date": "2025-02-22",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0359",
+    "title": "User 359",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, login OTP arrives late and session times out; I am close to cancelling my plan Hoping for a quick fix.",
+    "date": "2025-02-21",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0360",
+    "title": "User 360",
+    "rating": 4,
+    "snippet": "In the Play Store app build, portfolio insights are genuinely helpful; would love a bit more customization in alerts Team should look into this.",
+    "date": "2025-02-20",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0361",
+    "title": "User 361",
+    "rating": 5,
+    "snippet": "On Android, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Please review this soon.",
+    "date": "2025-02-19",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0362",
+    "title": "User 362",
+    "rating": 1,
+    "snippet": "Using the iOS app, account sync is inconsistent and delayed; this needs urgent attention from the team.",
+    "date": "2025-02-18",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0363",
+    "title": "User 363",
+    "rating": 1,
+    "snippet": "On my Samsung device, notifications are too spammy and not actionable; this has been frustrating for weeks.",
+    "date": "2025-02-17",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0364",
+    "title": "User 364",
+    "rating": 3,
+    "snippet": "From my iPhone app, research cards are informative, but login stability still needs work Team should look into this.",
+    "date": "2025-02-16",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0365",
+    "title": "User 365",
+    "rating": 1,
+    "snippet": "From my Samsung Galaxy, payout to bank is delayed again; not acceptable for a paid product Please review this soon.",
+    "date": "2025-02-15",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0366",
+    "title": "User 366",
+    "rating": 3,
+    "snippet": "Using the Android app, alerts are helpful when they work, but broker sync reliability is not great Kindly prioritize this issue.",
+    "date": "2025-02-14",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0367",
+    "title": "User 367",
+    "rating": 2,
+    "snippet": "Using a Samsung phone, holdings are not updating after market close; this needs urgent attention from the team Hoping for a quick fix.",
+    "date": "2025-02-13",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0368",
+    "title": "User 368",
+    "rating": 3,
+    "snippet": "From my iPhone app, watchlists are handy, but payout tracking is inconsistent.",
+    "date": "2025-02-12",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0369",
+    "title": "User 369",
+    "rating": 1,
+    "snippet": "On my Samsung device, notifications are too spammy and not actionable; this needs urgent attention from the team.",
+    "date": "2025-02-11",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0370",
+    "title": "User 370",
+    "rating": 2,
+    "snippet": "Using the Android app, the app hangs on the loading screen after sign in; not acceptable for a paid product Kindly prioritize this issue.",
+    "date": "2025-02-10",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0371",
+    "title": "User 371",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Hoping for a quick fix.",
+    "date": "2025-02-09",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0372",
+    "title": "User 372",
+    "rating": 4,
+    "snippet": "From my iPhone app, portfolio insights are genuinely helpful; would love a bit more customization in alerts Team should look into this.",
+    "date": "2025-02-08",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0373",
+    "title": "User 373",
+    "rating": 5,
+    "snippet": "On Android, FnO setup explanations are practical and easy to follow; research notes save a lot of manual effort Please review this soon.",
+    "date": "2025-02-07",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0374",
+    "title": "User 374",
+    "rating": 1,
+    "snippet": "Using the iOS app, account sync is inconsistent and delayed; this is affecting real trades now.",
+    "date": "2025-02-06",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0375",
+    "title": "User 375",
+    "rating": 4,
+    "snippet": "On my Android phone, great app, onboarding was smooth this time and features are easier to navigate now.",
+    "date": "2025-02-05",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0376",
+    "title": "User 376",
+    "rating": 3,
+    "snippet": "In the Play Store app build, research cards are informative, but login stability still needs work Team should look into this.",
+    "date": "2025-02-04",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0377",
+    "title": "User 377",
+    "rating": 5,
+    "snippet": "On iPhone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Please review this soon.",
+    "date": "2025-02-03",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0378",
+    "title": "User 378",
+    "rating": 1,
+    "snippet": "Using the Android app, withdrawal timeline is unclear and support is slow; please fix this quickly.",
+    "date": "2025-02-02",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0379",
+    "title": "User 379",
+    "rating": 1,
+    "snippet": "On App Store version for iPhone, payout to bank is delayed again; not acceptable for a paid product using UPI/bank transfer.",
+    "date": "2025-02-01",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0380",
+    "title": "User 380",
+    "rating": 1,
+    "snippet": "From my iPhone app, account sync is inconsistent and delayed; I am close to cancelling my plan Team should look into this.",
+    "date": "2025-01-31",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0381",
+    "title": "User 381",
+    "rating": 1,
+    "snippet": "On my Samsung device, notifications are too spammy and not actionable; this is affecting real trades now.",
+    "date": "2025-01-30",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0382",
+    "title": "User 382",
+    "rating": 2,
+    "snippet": "Using the iOS app, the app hangs on the loading screen after sign in; this has been frustrating for weeks.",
+    "date": "2025-01-29",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0383",
+    "title": "User 383",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, withdraw request shows processing for too long; please fix this quickly.",
+    "date": "2025-01-28",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0384",
+    "title": "User 384",
+    "rating": 2,
+    "snippet": "In the Play Store app build, new user registration is confusing and buggy; not acceptable for a paid product.",
+    "date": "2025-01-27",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0385",
+    "title": "User 385",
+    "rating": 3,
+    "snippet": "On iPhone, the ideas are useful, but login stability still needs work Please review this soon.",
+    "date": "2025-01-26",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0386",
+    "title": "User 386",
+    "rating": 1,
+    "snippet": "Using the Android app, withdrawal timeline is unclear and support is slow; not acceptable for a paid product Kindly prioritize this issue.",
+    "date": "2025-01-25",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0387",
+    "title": "User 387",
+    "rating": 2,
+    "snippet": "On my Samsung device, chat support keeps asking for the same details; I expected a much smoother experience.",
+    "date": "2025-01-24",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0388",
+    "title": "User 388",
+    "rating": 1,
+    "snippet": "From my iPhone app, customer support turnaround is poor; this is affecting real trades now Team should look into this.",
+    "date": "2025-01-23",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0389",
+    "title": "User 389",
+    "rating": 2,
+    "snippet": "From my Samsung Galaxy, withdraw request shows processing for too long; this has been frustrating for weeks Please review this soon.",
+    "date": "2025-01-22",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0390",
+    "title": "User 390",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO entries and exits are explained in a simple way; market updates are relevant and concise Kindly prioritize this issue.",
+    "date": "2025-01-21",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0391",
+    "title": "User 391",
+    "rating": 3,
+    "snippet": "On my Android phone, the ideas are useful, but login stability still needs work Hoping for a quick fix.",
+    "date": "2025-01-20",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0392",
+    "title": "User 392",
+    "rating": 5,
+    "snippet": "In the Play Store app build, FnO ideas are timely and well structured; dashboard readability is strong and clean Team should look into this.",
+    "date": "2025-01-19",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0393",
+    "title": "User 393",
+    "rating": 4,
+    "snippet": "On Android, dashboard readability is strong and clean; a few notification settings could be clearer Please review this soon.",
+    "date": "2025-01-18",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0394",
+    "title": "User 394",
+    "rating": 5,
+    "snippet": "Using the Android app, FnO watchlist and option chain feel very useful; research notes save a lot of manual effort Kindly prioritize this issue.",
+    "date": "2025-01-17",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0395",
+    "title": "User 395",
+    "rating": 5,
+    "snippet": "On my Android phone, FnO breakdowns are clear even for active days; dashboard readability is strong and clean Hoping for a quick fix.",
+    "date": "2025-01-16",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0396",
+    "title": "User 396",
+    "rating": 1,
+    "snippet": "From my iPhone app, withdrawal timeline is unclear and support is slow; I expected a much smoother experience Team should look into this.",
+    "date": "2025-01-15",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0397",
+    "title": "User 397",
+    "rating": 3,
+    "snippet": "On Android, the ideas are useful, but login stability still needs work Please review this soon.",
+    "date": "2025-01-14",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  },
+  {
+    "id": "rev-0398",
+    "title": "User 398",
+    "rating": 1,
+    "snippet": "Using the iOS app, account sync is inconsistent and delayed; this has been frustrating for weeks Kindly prioritize this issue.",
+    "date": "2025-01-13",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0399",
+    "title": "User 399",
+    "rating": 4,
+    "snippet": "On App Store version for iPhone, dashboard readability is strong and clean; a few notification settings could be clearer Hoping for a quick fix.",
+    "date": "2025-01-12",
+    "version": "v1",
+    "device": "iOS",
+    "country": "India"
+  },
+  {
+    "id": "rev-0400",
+    "title": "User 400",
+    "rating": 4,
+    "snippet": "In the Play Store app build, watchlist management is straightforward; bank payout status page can be more detailed.",
+    "date": "2025-01-11",
+    "version": "v1",
+    "device": "Android",
+    "country": "India"
+  }
+]
