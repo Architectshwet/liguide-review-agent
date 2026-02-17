@@ -7,7 +7,7 @@ services:
     env_file:
       - .env
     restart: unless-stopped
-    command: ["uv", "run", "uvicorn", "liquide.server:app", "--host", "0.0.0.0", "--port", "8000"]
+    command: ["uv", "run", "--no-dev", "--no-sync", "uvicorn", "liquide.server:app", "--host", "0.0.0.0", "--port", "8000"]
     volumes:
       - ./qdrant_vectordb:/app/qdrant_vectordb
     extra_hosts:

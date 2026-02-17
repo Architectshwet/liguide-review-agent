@@ -10,7 +10,7 @@ services:
       postgres-db:
         condition: service_healthy
     restart: unless-stopped
-    command: ["uv", "run", "uvicorn", "liquide.server:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+    command: ["uv", "run", "--no-dev", "--no-sync", "uvicorn", "liquide.server:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
     volumes:
       - ./liquide:/app/liquide
       - ./qdrant_vectordb:/app/qdrant_vectordb
